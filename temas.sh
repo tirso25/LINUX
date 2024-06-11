@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # URLs de los archivos en el repositorio de GitHub
-URL_THEME="https://github.com/tirso25/dotfiles/raw/main/Nordic-darker.tar.xz"
-URL_ICONS="https://github.com/tirso25/dotfiles/raw/main/Tela-black.tar.xz"
+URL_THEME="https://github.com/tirso25/LINUX/raw/main/Nordic-darker.tar.xz"
+URL_ICONS="https://github.com/tirso25/LINUX/raw/main/Tela-black.tar.xz"
 
 # Directorios destino
 DEST_DIR_THEME="/usr/share/themes"
