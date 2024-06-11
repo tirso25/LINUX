@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL de la imagen en el repositorio de GitHub
-IMAGE_URL="https://github.com/tirso25/dotfiles/raw/main/FONDO.png"
+IMAGE_URL="https://github.com/tirso25/LINUX/raw/main/FONDO.png"
 
 # Directorio de descargas
 DOWNLOAD_DIR="$HOME/Descargas"
