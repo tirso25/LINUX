@@ -44,7 +44,7 @@ sudo apt-get update -y && sudo apt-get upgrade
 ## Installation
 
 ```bash
-git clone https://github.com/tirso25/dotfiles ~/.dotfiles
+git clone https://github.com/tirso25/LINUX ~/.LINUX
 cd ~/.dotfiles
 bash install.sh
 bash fondo.sh
