@@ -45,7 +45,7 @@ sudo apt-get update -y && sudo apt-get upgrade
 
 ```bash
 git clone https://github.com/tirso25/LINUX ~/.LINUX
-cd ~/.dotfiles
+cd ~/.LINUX
 bash install.sh
 bash fondo.sh
 bash temas.sh
